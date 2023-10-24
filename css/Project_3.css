@@ -64,6 +64,11 @@ li
     color: white;
 }
 
+.jump_link:hover
+{
+    color: black;
+}
+
 .header
 {
     margin: 0;
