@@ -66,7 +66,9 @@ li
 
 .jump_link:hover
 {
-    color: black;
+    color: #9f9f9f;
+    /*outline-color: white;*/
+    /*text-outline: white 5px 5px;*/
 }
 
 .header
@@ -77,3 +79,4 @@ li
     display: block;
     background-color: #222222;
 }
+
